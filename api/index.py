@@ -89,4 +89,8 @@ def cleanup_folders():
     shutil.rmtree(app.config['DOWNLOAD_FOLDER'])
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run(debug=True)
+=======
+    app.run(debug=True)
+>>>>>>> 6c2842b29cf13421fdb42d1172bc248abdb39e80
